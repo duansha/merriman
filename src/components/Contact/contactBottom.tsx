@@ -18,8 +18,21 @@ const ContactBottom = () => {
                     Enrollment Process
                   </span>
                   1. <span className="font-bold">Contact Us</span> – Reach out
-                  by phone, email, or our website form to express your interest.{" "}
-                  <br />
+                  by phone&nbsp;
+                  <a
+                    href="tel:+14254924621"
+                    className="dark:text-body-color-dark text-footer transition-colors hover:text-white dark:hover:text-gray-300"
+                  >
+                    + 1 (425) 492-4621
+                  </a>
+                  , email&nbsp;
+                  <a
+                    href="mailto:info@mu5ic4good.org"
+                    className="dark:text-body-color-dark text-footer transition-colors hover:text-white dark:hover:text-gray-300"
+                  >
+                    merrimanclc@gmail.com
+                  </a>
+                  , or our website form to express your interest. <br />
                   2. <span className="font-bold">Schedule a Tour</span> – Visit
                   our center, meet the teachers, and see our classrooms and
                   learning environment. <br />

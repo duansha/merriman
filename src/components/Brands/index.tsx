@@ -6,10 +6,10 @@ const Brands = () => {
     <section className="pt-16">
       <div className="-mx-4 flex flex-wrap">
         <div className="w-full px-4">
-          <div className="dark:bg-gray-dark relative flex min-h-screen items-center justify-center overflow-hidden bg-purple-100 bg-top bg-no-repeat text-white dark:from-purple-950 dark:via-blue-950 dark:to-indigo-950">
+          <div className="dark:bg-gray-dark relative flex min-h-screen items-center justify-center overflow-hidden bg-purple-100 bg-top bg-no-repeat pt-8 text-white dark:from-purple-950 dark:via-blue-950 dark:to-indigo-950">
             <div className="max-w-8xl mx-auto px-4">
               <div className="grid gap-12 lg:grid-cols-2">
-                <div className="ml-8">
+                <div className="md:ml-8">
                   <h2 className="mb-8 ml-8 text-3xl font-bold text-gray-900 dark:text-gray-100">
                     Introduction
                   </h2>
@@ -46,6 +46,8 @@ const Brands = () => {
                     Growing with Love, Thriving with Joy
                     <br />
                     Where Children Explore, Learn, and Thrive
+                    <br />
+                    <br />
                     <Image
                       src="/images/merriman/pic1.png"
                       width="550"

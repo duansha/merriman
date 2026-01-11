@@ -75,14 +75,7 @@ const Sponsorship2 = () => {
               <div className="w-full p-4">
                 {" "}
                 {/* Second child div */}
-                <p className="mb-8 ml-8 text-gray-900 dark:text-gray-100">
-                  <Image
-                    src="/images/merriman/pic5.png"
-                    width="350"
-                    height="350"
-                    alt=""
-                  />
-                </p>
+                <p className="mb-8 ml-8 text-gray-900 dark:text-gray-100"></p>
               </div>
               <div className="w-full p-4">
                 {" "}

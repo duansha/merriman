@@ -40,7 +40,7 @@ const Header = () => {
 
   return (
     <>
-      <nav className="bg-background/95 supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50 w-full border-b backdrop-blur">
+      <nav className="bg-background/95 supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50 w-full border-b pb-0.5 backdrop-blur">
         <header
           className={`header top-0 left-0 z-40 flex w-full items-center ${
             sticky
@@ -65,7 +65,7 @@ const Header = () => {
                   />
                   <span className="font-bold text-blue-950 dark:text-white/70">
                     &nbsp; MERRIMAN &nbsp;
-                    <span className="hidden text-xs md:block">
+                    <span className="block text-[0.625rem] sm:text-[0.75rem]">
                       Childcare and Learning Center
                     </span>
                   </span>

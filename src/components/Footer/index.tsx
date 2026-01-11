@@ -59,7 +59,7 @@ const Footer = () => {
                   <br />
                   Where Children Explore, Learn, and Thrive
                 </p>
-                <div className="flex items-center">
+                <div className="hidden items-center">
                   <a
                     href="https://www.facebook.com/mu5ic4good/"
                     aria-label="social-link"
