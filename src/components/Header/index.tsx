@@ -50,7 +50,7 @@ const Header = () => {
         >
           <div className="container">
             <div className="relative -mx-4 flex items-center justify-between">
-              <div className="flex w-150 max-w-full px-1 xl:mr-0">
+              <div className="flex w-165 max-w-full px-1 xl:mr-0">
                 <Link
                   href="/"
                   className={`header-logo block flex w-full items-center space-x-2 ${
@@ -101,7 +101,7 @@ const Header = () => {
                   </svg>*/}
                 </Link>
               </div>
-              <div className="flex w-20 max-w-full px-1 xl:mr-12">
+              <div className="flex w-5 max-w-full px-1 xl:mr-12">
                 <Link
                   href="/"
                   className={`header-logo block flex w-full items-center space-x-2 ${
