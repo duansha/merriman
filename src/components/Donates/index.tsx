@@ -35,10 +35,10 @@ const Donates = () => {
 
       <section className="bg-bg py-20 dark:bg-gray-900">
         <div className="mx-auto max-w-6xl px-4">
-          <div className="flex">
+          <div className="grid gap-0 lg:grid-cols-2">
             {" "}
             {/* Parent div becomes a flex container */}
-            <div className="w-1/2 p-4">
+            <div className="w-full p-2">
               {" "}
               {/* First child div */}
               <p className="max-w-3'xl mx-auto text-left text-xl md:text-xl">
@@ -62,7 +62,7 @@ const Donates = () => {
                 我们的课程设计围绕宗旨——帮助每个孩子茁壮成长。在这里，孩子们不会经历“可怕的两岁”。课程涵盖：自然、历史、语言、数学、地理和艺术。我们通过游戏、项目和真实生活的探索，将这些知识融入其中，让孩子们在快乐和有意义的学习中成长。
               </p>
             </div>
-            <div className="w-1/2 p-4">
+            <div className="w-full p-2">
               {" "}
               {/* Second child div */}
               <Image

@@ -28,13 +28,13 @@ const AboutSectionOne = () => {
                   Our purpose
                 </h1>
 
-                <div className="flex">
+                <div className="grid gap-0 lg:grid-cols-2">
                   {" "}
                   {/* Parent div becomes a flex container */}
-                  <div className="w-1/2 p-4">
+                  <div className="w-full p-0.5">
                     {" "}
                     {/* First child div */}
-                    <p className="max-w-3'xl mx-auto text-left text-xl md:text-2xl">
+                    <p className="max-w-3'xl mx-auto mb-4 ml-8 text-center text-xl md:text-2xl">
                       To help every child thrive. <br />
                       帮助每一个孩子茁壮成长。
                       <br />
@@ -47,10 +47,10 @@ const AboutSectionOne = () => {
                       />
                     </p>
                   </div>
-                  <div className="w-1/2 p-4">
+                  <div className="w-full p-0.5">
                     {" "}
                     {/* Second child div */}
-                    <p className="mb-8 ml-8 text-gray-900 dark:text-gray-100">
+                    <p className="mb-2 ml-8 text-gray-900 dark:text-gray-100">
                       <Image
                         src="/images/merriman/pic3.png"
                         width="350"

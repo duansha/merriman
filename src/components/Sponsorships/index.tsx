@@ -31,11 +31,7 @@ const Sponsorships = () => {
                 <h1 className="mb-6 text-center text-5xl font-bold md:text-6xl">
                   Our Staff
                 </h1>
-                <p className="mx-auto max-w-3xl text-xl md:text-2xl">
-                  Partner with MU5IC4GOOD to fund music and other therapies for
-                  kids with autism and earn brand visibility and community
-                  recognition.
-                </p>
+                <p className="mx-auto max-w-3xl text-xl md:text-2xl"></p>
               </div>
             </div>
           </div>

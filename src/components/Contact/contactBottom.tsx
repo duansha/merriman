@@ -7,10 +7,10 @@ const ContactBottom = () => {
       <section className="bg-bg py-5 dark:bg-gray-900">
         <div className="mx-auto max-w-7xl px-4">
           <div className="mb-16 text-left">
-            <div className="flex">
+            <div className="grid gap-0 lg:grid-cols-2">
               {" "}
               {/* Parent div becomes a flex container */}
-              <div className="w-1/2 p-4">
+              <div className="w-full p-4">
                 {" "}
                 {/* First child div */}
                 <p className="max-w-3'xl mx-auto text-left text-xl md:text-xl">
@@ -33,7 +33,7 @@ const ContactBottom = () => {
                   welcome your family to Merriman Childcare and Learning Center.
                 </p>
               </div>
-              <div className="w-1/4 p-4">
+              <div className="grid w-full grid-cols-2 gap-2 p-4">
                 {" "}
                 {/* Second child div */}
                 <Image
@@ -42,10 +42,6 @@ const ContactBottom = () => {
                   height="350"
                   alt=""
                 />
-              </div>
-              <div className="w-1/4 p-4">
-                {" "}
-                {/* Second child div */}
                 <Image
                   src="/images/merriman/pic12.png"
                   width="250"
@@ -61,10 +57,10 @@ const ContactBottom = () => {
       <section className="bg-bg py-5 dark:bg-gray-900">
         <div className="mx-auto max-w-7xl px-4">
           <div className="mb-16 text-left">
-            <div className="flex">
+            <div className="grid gap-0 lg:grid-cols-2">
               {" "}
               {/* Parent div becomes a flex container */}
-              <div className="w-1/2 p-4">
+              <div className="w-full p-4">
                 {" "}
                 {/* First child div */}
                 <p className="max-w-3'xl mx-auto text-left text-xl md:text-xl">
@@ -94,7 +90,7 @@ const ContactBottom = () => {
                   <li>业余国际象棋俱乐部</li>
                 </ul>
               </div>
-              <div className="w-1/2 p-4">
+              <div className="w-full p-4">
                 {" "}
                 {/* Second child div */}
                 <Image

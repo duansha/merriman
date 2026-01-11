@@ -6,10 +6,22 @@ const Sponsorship2 = () => {
       <section className="bg-bg py-5 dark:bg-gray-900">
         <div className="mx-auto max-w-6xl px-4">
           <div className="mb-16 text-center">
-            <div className="flex">
+            <div className="grid gap-0 lg:grid-cols-[1fr_2fr]">
               {" "}
               {/* Parent div becomes a flex container */}
-              <div className="w-2/3 p-4">
+              <div className="w-full p-4">
+                {" "}
+                {/* Second child div */}
+                <p className="mb-8 ml-8 text-gray-900 dark:text-gray-100">
+                  <Image
+                    src="/images/merriman/pic5.png"
+                    width="350"
+                    height="350"
+                    alt=""
+                  />
+                </p>
+              </div>
+              <div className="w-full p-4">
                 {" "}
                 {/* First child div */}
                 <p className="max-w-3'xl mx-auto text-left text-xl md:text-xl">
@@ -49,7 +61,18 @@ const Sponsorship2 = () => {
                   坚信积极的师生关系能让孩子感到被爱和被尊重，她的教育宗旨就是：帮助每一个孩子在身体、心理、社交和语言方面全面茁壮成长。
                 </p>
               </div>
-              <div className="w-1/3 p-4">
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bg py-5 dark:bg-gray-900">
+        <div className="mx-auto max-w-6xl px-4">
+          <div className="mb-16 text-center">
+            <div className="grid gap-0 lg:grid-cols-[1fr_2fr]">
+              {" "}
+              {/* Parent div becomes a flex container */}
+              <div className="w-full p-4">
                 {" "}
                 {/* Second child div */}
                 <p className="mb-8 ml-8 text-gray-900 dark:text-gray-100">
@@ -61,18 +84,7 @@ const Sponsorship2 = () => {
                   />
                 </p>
               </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="bg-bg py-5 dark:bg-gray-900">
-        <div className="mx-auto max-w-6xl px-4">
-          <div className="mb-16 text-center">
-            <div className="flex">
-              {" "}
-              {/* Parent div becomes a flex container */}
-              <div className="w-2/3 p-4">
+              <div className="w-full p-4">
                 {" "}
                 {/* First child div */}
                 <p className="max-w-3'xl mx-auto text-left text-xl md:text-xl">
@@ -91,18 +103,6 @@ const Sponsorship2 = () => {
                   坚信幼儿教育至关重要，所提供的环境对孩子的发展起着关键作用。她用细心的照顾和充分的关怀，为孩子们营造一个安全、有爱的环境，从而帮助他们健康、自信地成长。
                 </p>
               </div>
-              <div className="w-1/3 p-4">
-                {" "}
-                {/* Second child div */}
-                <p className="mb-8 ml-8 text-gray-900 dark:text-gray-100">
-                  <Image
-                    src="/images/merriman/pic5.png"
-                    width="350"
-                    height="350"
-                    alt=""
-                  />
-                </p>
-              </div>
             </div>
           </div>
         </div>
@@ -111,10 +111,22 @@ const Sponsorship2 = () => {
       <section className="bg-bg py-5 dark:bg-gray-900">
         <div className="mx-auto max-w-6xl px-4">
           <div className="mb-16 text-center">
-            <div className="flex">
+            <div className="grid gap-0 lg:grid-cols-[1fr_2fr]">
               {" "}
               {/* Parent div becomes a flex container */}
-              <div className="w-2/3 p-4">
+              <div className="w-full p-4">
+                {" "}
+                {/* Second child div */}
+                <p className="mb-8 ml-8 text-gray-900 dark:text-gray-100">
+                  <Image
+                    src="/images/merriman/pic6.png"
+                    width="350"
+                    height="350"
+                    alt=""
+                  />
+                </p>
+              </div>
+              <div className="w-full p-4">
                 {" "}
                 {/* First child div */}
                 <p className="max-w-3'xl mx-auto text-left text-xl md:text-xl">
@@ -133,18 +145,6 @@ const Sponsorship2 = () => {
                   的丈夫，他非常喜欢与孩子们交流，尊重他们的每一个想法和主意，即使是看似幼稚的点子，他也会耐心地与孩子们长时间讨论。他细心、耐心，善于发现孩子的优点，并给予鼓励、支持和帮助。Loren
                   自己有过一个快乐、无忧、安全、健康的童年，他希望为孩子们营造同样的环境，用无条件的爱陪伴他们，让孩子们无忧成长、快乐生活，在游戏中学习，在生活中享受每一个进步和惊喜。Loren
                   坚信要为孩子们打开更多的窗口，让他们能够去探索、去学习、去享受、去成长，发现更广阔的天地。
-                </p>
-              </div>
-              <div className="w-1/3 p-4">
-                {" "}
-                {/* Second child div */}
-                <p className="mb-8 ml-8 text-gray-900 dark:text-gray-100">
-                  <Image
-                    src="/images/merriman/pic6.png"
-                    width="350"
-                    height="350"
-                    alt=""
-                  />
                 </p>
               </div>
             </div>

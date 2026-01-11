@@ -40,10 +40,10 @@ const Journey = () => {
       <section className="bg-bg py-5 dark:bg-gray-900">
         <div className="mx-auto max-w-7xl px-4">
           <div className="mb-16 text-center">
-            <div className="flex">
+            <div className="grid gap-0 lg:grid-cols-[2fr_1fr_1fr]">
               {" "}
               {/* Parent div becomes a flex container */}
-              <div className="w-1/2 p-4">
+              <div className="w-full p-4">
                 {" "}
                 {/* First child div */}
                 <p className="max-w-3'xl mx-auto text-left text-xl md:text-xl">
@@ -57,7 +57,7 @@ const Journey = () => {
                   老师的角色是引导、启发和鼓励孩子，让他们在探索中成长。阅读在我们的教学中占据核心位置——哪怕是1岁左右的孩子，我们也坚持每天读书，激发他们的想象力、表达能力和提问能力。
                 </p>
               </div>
-              <div className="w-1/4 p-4">
+              <div className="w-full p-4">
                 {" "}
                 {/* Second child div */}
                 <Image
@@ -67,7 +67,7 @@ const Journey = () => {
                   alt=""
                 />
               </div>
-              <div className="w-1/4 p-4">
+              <div className="w-full p-4">
                 {" "}
                 {/* Second child div */}
                 <Image

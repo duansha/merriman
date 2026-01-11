@@ -7,10 +7,10 @@ const ContactBottom = () => {
       <section className="bg-bg py-5 dark:bg-gray-900">
         <div className="mx-auto max-w-7xl px-4">
           <div className="mb-16 text-center">
-            <div className="flex">
+            <div className="grid gap-0 lg:grid-cols-2">
               {" "}
               {/* Parent div becomes a flex container */}
-              <div className="w-1/2 p-4 text-left text-xl">
+              <div className="w-full p-4 text-left text-xl">
                 To join our team, you need to complete the following steps:
                 <ul>
                   <li>1. Apply for a STARS ID through the Merit website.</li>
@@ -36,7 +36,7 @@ const ContactBottom = () => {
                 Note: For parent chaperones and volunteers, items 4, 5, and 6
                 are not required.
               </div>
-              <div className="w-1/2 p-4">
+              <div className="w-full p-4">
                 {" "}
                 {/* Second child div */}
                 <Image
