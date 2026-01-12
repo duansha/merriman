@@ -33,7 +33,8 @@ const Missions1 = () => {
                   Helping children thrive is at the heart of every part of our
                   curriculum. Our curriculum integrates play, exploration, and
                   guided learning to spark curiosity, build skills, and support
-                  children’s holistic development.
+                  children’s holistic development. <br />
+                  <br />
                   帮助孩子茁壮成长，是我们所有课程的核心。
                   我们的课程融合了游戏、探索和引导式学习，激发孩子的好奇心，培养技能，并支持他们的全面发展。
                 </p>

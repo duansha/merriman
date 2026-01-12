@@ -53,7 +53,7 @@ const Footer = () => {
                   </span>*/}
                 </div>
                 <p className="dark:text-body-color-dark text-footer mb-9 text-base leading-relaxed">
-                  Bringing togetherLove, Learn, Thrive
+                  Bringing together Love, Learn, Thrive
                   <br />
                   Growing with Love, Thriving with Joy
                   <br />

@@ -58,7 +58,7 @@ const ContactTop = () => {
                             Under 1 year old
                           </td>
                           <td className="px-4 py-3 text-left text-sm whitespace-nowrap">
-                            2
+                            0
                           </td>
                           <td className="px-4 py-3 text-left text-sm whitespace-nowrap">
                             Full-day / Half-day / Mon-Wed-Fri / Tue-Thu
@@ -70,7 +70,7 @@ const ContactTop = () => {
                             Ages 1-3
                           </td>
                           <td className="px-4 py-3 text-left text-sm whitespace-nowrap">
-                            10
+                            12
                           </td>
                           <td className="px-4 py-3 text-left text-sm whitespace-nowrap">
                             Full-day / Half-day / Mon-Wed-Fri / Tue-Thu
@@ -82,7 +82,7 @@ const ContactTop = () => {
                             Ages 3-5
                           </td>
                           <td className="px-4 py-3 text-left text-sm whitespace-nowrap">
-                            5
+                            6
                           </td>
                           <td className="px-4 py-3 text-left text-sm whitespace-nowrap">
                             Full-day / Half-day / Mon-Wed-Fri / Tue-Thu
@@ -94,7 +94,7 @@ const ContactTop = () => {
                             Ages 5-12 <br /> (Afterschool only)
                           </td>
                           <td className="px-4 py-3 text-left text-sm whitespace-nowrap">
-                            10
+                            12
                           </td>
                           <td className="px-4 py-3 text-left text-sm whitespace-nowrap">
                             Homework help / Healthy snacks <br /> Multilingual

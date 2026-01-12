@@ -53,6 +53,7 @@ const Donates = () => {
                 <li>History 历史</li>
                 <li>Language & Literacy 语言与读写</li>
                 <li>Math 数学</li>
+                <li>Music 音乐</li>
                 <li>Geography 地理</li>
                 <li>Arts & Creativity 艺术与创造力</li>
                 <li>Chess 逻辑思维</li>
@@ -60,7 +61,9 @@ const Donates = () => {
               <p>
                 We integrate these subjects through play, projects, and
                 real-life exploration so children learn with joy and meaning.
-                我们的课程设计围绕宗旨——帮助每个孩子茁壮成长。在这里，孩子们不会经历“可怕的两岁”。课程涵盖：自然、历史、语言、数学、地理和艺术。我们通过游戏、项目和真实生活的探索，将这些知识融入其中，让孩子们在快乐和有意义的学习中成长。
+                <br />
+                <br />
+                我们的课程设计围绕宗旨——帮助每个孩子茁壮成长。在这里，孩子们不会经历“可怕的两岁”。课程涵盖：自然、历史、语言、数学、音乐、地理和艺术。我们通过游戏、项目和真实生活的探索，将这些知识融入其中，让孩子们在快乐和有意义的学习中成长。
               </p>
             </div>
             <div className="w-full p-2">

@@ -53,6 +53,7 @@ const Journey = () => {
                   even for children as young as one year old, we read daily to
                   spark imagination, expression, and questioning skills.
                   <br />
+                  <br />
                   我们相信以孩子为主导、兴趣为导向的学习。
                   老师的角色是引导、启发和鼓励孩子，让他们在探索中成长。阅读在我们的教学中占据核心位置——哪怕是1岁左右的孩子，我们也坚持每天读书，激发他们的想象力、表达能力和提问能力。
                 </p>
