@@ -20,8 +20,13 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <>
-      <ScrollUp />
-      <Brands />
+      {/* <ScrollUp />
+      <Brands /> */}
+
+      <main style={{ padding: 40 }}>
+        <h1>Site Temporarily Unavailable</h1>
+        <p>Please check back soon.</p>
+      </main>
     </>
   );
 }

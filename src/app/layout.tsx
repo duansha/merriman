@@ -36,10 +36,9 @@ export default function RootLayout({
         className={`bg-[#FCFCFC] dark:bg-black ${inter.className} ${dynaPuff.className}`}
       >
         <Providers>
-          <Header />
+          {/* <Header /> */}
           {children}
-          <Footer />
-          <ScrollToTop />
+          {/* <Footer /> <ScrollToTop /> */}
         </Providers>
       </body>
     </html>
